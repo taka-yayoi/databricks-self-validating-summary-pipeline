@@ -86,6 +86,7 @@ LLM の出力は実行のたびに変わるので、試行回数や判定は毎�
 
 ## 参考
 
+- [LLM を呼ぶパイプラインも生成 AI アプリ: Databricks で検証と作り直しを組み込んだ要約パイプラインを試す (Qiita)](https://qiita.com/taka_yayoi/items/e21496d252a2aa3e533f)
 - [Building a Self-Validating AI Summary Pipeline on Databricks](https://community.databricks.com/t5/technical-blog/building-a-self-validating-ai-summary-pipeline-on-databricks/ba-p/175369)
 - [生成AI対応 MLflow 3](https://docs.databricks.com/aws/ja/mlflow3/genai/)
 - [プロンプトの作成と編集](https://docs.databricks.com/aws/ja/mlflow3/genai/prompt-version-mgmt/prompt-registry/create-and-edit-prompts)
